@@ -2,7 +2,7 @@ console.log("Dunya");
 
 // alert(3 + 5);
 
-// var,let,const
+// var, let, const
 let sayi1 = 5;
 const sayi2 = 15;
 
@@ -42,10 +42,10 @@ sayilar2.unshift(-7); // Eklenen Değeri Listenin İlk Eleman
 sayilar2.unshift(27);
 
 // Array'in Sonundan Veri Silme
-sayilar2.pop(); //sonuncu Öğeyi Siler
+sayilar2.pop(); // Sonuncu Öğeyi Siler
 
 // Array'in Başından Veri Silme
-sayilar2.shift(); //ilk Öğeyi Siler
+sayilar2.shift(); // İlk Öğeyi Siler
 
 sayilar2.unshift("2");
 console.log(sayilar2);
